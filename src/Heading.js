@@ -1,0 +1,26 @@
+import React from 'react';
+import logo from './logo.svg';
+import './Heading.css';
+
+function Heading() {
+  return (
+    <div className="Heading">
+      <header className="Heading-header">
+        <h1>
+          Mira's und Matteo's Fotobox.
+        </h1>
+        <a
+          className="App-link"
+          href="https://home.grobmo.de"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          GrobMo
+        </a>
+        
+      </header>
+    </div>
+  );
+}
+
+export default Heading;
