@@ -1,3 +1,5 @@
+This project ist meant to be for my children. It should create a local photo app with photos they made.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
