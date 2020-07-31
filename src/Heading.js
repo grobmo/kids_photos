@@ -11,7 +11,7 @@ function Heading() {
         </h1>
         <a
           className="App-link"
-          href="https://home.grobmo.de"
+          href="https://google.de"
           target="_blank"
           rel="noopener noreferrer"
         >
