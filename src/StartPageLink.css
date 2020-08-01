@@ -1,0 +1,16 @@
+.Child-container {
+  height: 300;
+  display: flex;
+  flex-direction: row; 
+  justify-content: center;
+  align-items: stretch;
+}
+.Child-box {
+    align-items: left;
+    background-color: aliceblue;
+    position:relative;
+    width: 30%;
+}
+.App-link {
+  color: darkorchid;
+}
