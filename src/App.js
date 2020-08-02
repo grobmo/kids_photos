@@ -9,6 +9,7 @@ function App() {
     <div className="App">
       
       <Heading />
+
       <StartPageLink kidsName1="Mira" kidsName2="Matteo"/>
       
       <div className="RefLink">Icons erstellt von 
@@ -18,6 +19,7 @@ function App() {
       <div className="Child-container">
         <img src={logo} className="App-logo" alt="logo" />
       </div>
+      <StartPageLink kidsName="Matteo"/>
     </div>
   );
 }
