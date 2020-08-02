@@ -1,7 +1,7 @@
 import React from 'react';
 import './StartPageLink.css';
-import female from './pics/female.png';
-import male from './pics/male.png';
+import female from './images/female.png';
+import male from './images/male.png';
 
 function StartPageLink(props) {
     return (
