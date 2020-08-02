@@ -6,6 +6,7 @@ import male from './pics/male.png';
 function StartPageLink(props) {
     return (
       <div className="Child-container">
+
         <div className="Child-box">
         <a
           className="App-link"
