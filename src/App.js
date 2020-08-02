@@ -9,6 +9,7 @@ function App() {
     <div className="App">
       
       <Heading />
+
       <StartPageLink kidsName1="Mira" kidsName2="Matteo"/>
       
       <div className="RefLink">Icons erstellt von 
