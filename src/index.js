@@ -11,7 +11,6 @@ class App extends React.Component {
           <Root>
             <StartPageLink kidsName1="Mira" kidsName2="Matteo"/>
           </Root>
-          
       );
   }
 }
