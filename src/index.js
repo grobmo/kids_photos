@@ -1,16 +1,20 @@
 import React from 'react';
 import {render} from 'react-dom';
+import {Router, Route, browserHistory} from 'react-router';
 import './index.css';
 import * as serviceWorker from './serviceWorker';
-import StartPageLink from './main/StartPageLink';
+import {StartPageLink} from './main/StartPageLink';
 import {Root} from './main/Root'
 
 class App extends React.Component {
   render() {
       return (
-          <Root>
+          /*<Root>
             <StartPageLink kidsName1="Mira" kidsName2="Matteo"/>
-          </Root>
+          </Root>*/
+          <Router history={browserHistory}>
+            <Route path={'StartPageLink'} component={'StartPageLink'}/>
+          </Router>
           
       );
   }
