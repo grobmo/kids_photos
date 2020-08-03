@@ -3,7 +3,6 @@ import './StartPageLink.css';
 import female from '../images/femaleOrig.png';
 import male from '../images/maleOrig.png';
 
-
 function StartPageLink(props) {
     return (
       <div className="Child-container">
