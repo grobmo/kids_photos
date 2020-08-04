@@ -8,15 +8,6 @@ function Heading() {
         <h1>
           Mira's und Matteo's Fotobox.
         </h1>
-        <a
-          className="App-link"
-          href="https://google.de"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          GrobMo
-        </a>
-        
       </header>
     </div>
   );
