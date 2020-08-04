@@ -1,5 +1,4 @@
 import React from 'react';
-import {render} from 'react-dom';
 
 
 export class AlbumView extends React.Component {
@@ -7,10 +6,10 @@ export class AlbumView extends React.Component {
       return (
           <div>
               <h1>
-                  jdnsnsdjkfnsdfn
+                  Album Überschrift
               </h1>
               <p>
-                  nnejnhernjhvrenhj
+                  Album Inhalt
               </p>
           </div>
           

@@ -39,3 +39,11 @@
     transform: rotate(360deg);
   }
 }
+
+hr { 
+  width: 95%; 
+  height: 1px; 
+  margin: 0 auto;
+  color:deepskyblue;
+  background: #000000;
+}

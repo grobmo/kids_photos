@@ -12,6 +12,7 @@ export class Root extends React.Component {
         <div>
           {this.props.children}
         </div>
+        <hr></hr>
         <div className="RefLink">Icons erstellt von 
           <a href="https://www.flaticon.com/de/autoren/freepik" title="Freepik">Freepik </a> 
           from <a href="https://www.flaticon.com/de/" title="Flaticon">www.flaticon.com</a>
