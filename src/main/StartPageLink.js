@@ -2,7 +2,7 @@ import React from 'react';
 import './StartPageLink.css';
 import female from '../images/femaleOrig.png';
 import male from '../images/maleOrig.png';
-import {Link, HashRouter} from 'react-router-dom'
+import {Link, HashRouter} from 'react-router-dom';
 
 function StartPageLink(props) {
     return (
